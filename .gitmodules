@@ -1,0 +1,3 @@
+[submodule "alien-shooter-game/Assets/AssetBundles/dt-unity-library"]
+	path = alien-shooter-game/Assets/AssetBundles/dt-unity-library
+	url = https://github.com/DarrenTsung/dt-unity-library.git
